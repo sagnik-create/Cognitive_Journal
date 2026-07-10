@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 87a476c8a1fcae160b16df2eb4ce8ed1943b4564 Sagnik Dey <sagnikd587@gmail.com> 1783248243 +0530	commit (initial): Initial backend setup with basic frontend
+87a476c8a1fcae160b16df2eb4ce8ed1943b4564 4ac9c699ade5f421227bed40e7c376cb34ea162d Sagnik Dey <sagnikd587@gmail.com> 1783252210 +0530	commit: env setup
+4ac9c699ade5f421227bed40e7c376cb34ea162d 0000000000000000000000000000000000000000 Sagnik Dey <sagnikd587@gmail.com> 1783252238 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4ac9c699ade5f421227bed40e7c376cb34ea162d Sagnik Dey <sagnikd587@gmail.com> 1783252238 +0530	Branch: renamed refs/heads/master to refs/heads/main
+4ac9c699ade5f421227bed40e7c376cb34ea162d 3a979cf8013e5c9dd498f0b1feed3f4ee072870c Sagnik Dey <sagnikd587@gmail.com> 1783363101 +0530	commit: improvement frontend bugs and pipeline
+3a979cf8013e5c9dd498f0b1feed3f4ee072870c 580872273356995ada8971869e73588b93564904 Sagnik Dey <sagnikd587@gmail.com> 1783451388 +0530	commit: Fixed voiceRecorder issue
+580872273356995ada8971869e73588b93564904 1ec9c4cbc699f65b562c0f8361d4715ed904cfa7 Sagnik Dey <sagnikd587@gmail.com> 1783709911 +0530	commit: Auth Feature Added
